@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  username: lotstodo
+  password: password
+  database: lots_to_do
+  host: localhost
